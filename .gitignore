@@ -1,0 +1,35 @@
+# R
+.Rproj.user
+.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
+*.Rproj
+
+# Project-specific
+cached
+cached_surveillance
+mcmc_runs
+results
+env.R
+visualization/test_simset.Rdata
+code/debugging
+
+R_scripts/master_scripts
+R_scripts/setup_scripts
+R_scripts/run_scripts
+
+# User-specific
+## joeflack4
+_dev
+_archive
+
+# Project-specific
+/temp/
+*git-ignored/
+
+# OS-specific
+.DS_Store
+cleaned_data
+result_summaries
+~$*
